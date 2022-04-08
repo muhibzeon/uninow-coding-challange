@@ -9,6 +9,10 @@ In the project directory, you can run:
 ### `npm run dev`
 Starts the Complete App.
 
+To test Login:
+username: john
+password: 1234
+
 ### `npm start`
 
 Runs the app in the development mode.\
